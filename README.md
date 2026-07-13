@@ -165,12 +165,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**AishuChintuJ**
+**Aishwarya J**
 
 ## Support
 
 For issues, questions, or suggestions, please open an issue on GitHub.
 
----
-
-Made with ❤️ for library management
